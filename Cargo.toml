@@ -6,4 +6,3 @@ edition = "2018"
 
 [dependencies]
 csv="0.14.7"
-serde = "1.0.134"
